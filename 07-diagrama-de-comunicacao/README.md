@@ -1,37 +1,18 @@
-# Diagrama de Comunicação (Colaboração)
+# Grupo 6 - Diagrama de Comunicação (UML 2)
 
-**Grupo 7:** Dani, Ricardo e Maria Aparecida
+### Integrantes
+* Dani
+* Ricardo
+* Maria Aparecida
 
-> Apague as instruções entre colchetes e preencha cada seção.
+### Sobre o Diagrama
+O Diagrama de Comunicação (antigo Diagrama de Colaboração) é um diagrama de interação cujo objetivo principal é mostrar quais objetos colaboram em um cenário específico do sistema e quais mensagens eles trocam entre si.
 
-## Definição
+* **Foco:** Diferente do Diagrama de Sequência (que foca no tempo), o Diagrama de Comunicação destaca a estrutura e as ligações, respondendo claramente à pergunta: *"Com quem este objeto conversa?"*.
+* **Ordenação:** A sequência temporal das mensagens é definida por uma numeração lógica (ex: 1, 1.1, 1.2) em vez de uma linha do tempo vertical.
 
-[O que é o diagrama e para que serve.]
+### Elementos Principais da Notação
+* **Linha de vida / Objeto:** Elementos que participam da interação.
+* **Link:** Linha sólida que conecta os objetos, representando o canal por onde trafegam as mensagens.
+* **Mensagem:** Chamadas numeradas com setas que indicam a direção do fluxo de dados.
 
-## Quando usar
-
-[Em que fase ou contexto do projeto ele é mais útil.]
-
-## Elementos da notação
-
-| Símbolo | Nome | O que representa |
-|---|---|---|
-| [descrição ou imagem] | [nome] | [significado] |
-
-## Exemplo prático
-
-[Explique em poucas linhas o sistema escolhido e o que o diagrama mostra.]
-
-![Exemplo prático do grupo](diagrama.png)
-
-## Comparação com Caso de Uso, Classe e Sequência
-
-[Em que este diagrama se parece com eles e em que se diferencia.]
-
-## Apresentação
-
-[Apresentação em PDF](apresentacao.pdf)
-
-## Referências
-
-- [Livros, artigos ou sites consultados.]
