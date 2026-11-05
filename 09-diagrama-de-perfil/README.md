@@ -66,7 +66,7 @@ O diagrama mostra o pacote «profile» LojaVirtualProfile com esses três estere
 
 ## Apresentação
 
-[Apresentação (PDF)] (apresentacao.pdf) — o exemplo prático está no slide 5 e 6 .
+[Apresentação (PDF)](apresentacao.pdf) — o exemplo prático está no slide 5 e 6 .
 
 ## Referências
 
