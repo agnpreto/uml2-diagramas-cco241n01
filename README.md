@@ -11,7 +11,7 @@ Em aula estudamos os diagramas de **Caso de Uso**, **Classe** e **Sequência**. 
 |---|---|---|---|
 | 1 | [Diagrama de Atividades](01-diagrama-de-atividades/) | Paulo, Davi e Isaac | 🔄 fork criado, aguardando entrega |
 | 2 | [Diagrama de Estados (Máquina de Estados)](02-diagrama-de-estados/) | Willames, Rian e Elias | 🔄 fork criado, aguardando entrega |
-| 3 | [Diagrama de Componentes](03-diagrama-de-componentes/) | Pedro, Felipe e Eduardo Vitor | 📝 Pull Request aberto, aguardando ajustes |
+| 3 | [Diagrama de Componentes](03-diagrama-de-componentes/) | Pedro, Felipe e Eduardo Vitor | ✅ entregue (falta a apresentação de Componentes em PDF) |
 | 4 | [Diagrama de Implantação (Deployment)](04-diagrama-de-implantacao/) | Maria Eduarda, João e Lucas | 🔄 em andamento no fork, falta o Pull Request |
 | 5 | [Diagrama de Objetos](05-diagrama-de-objetos/) | Linda e Ana | ⏳ pendente |
 | 6 | [Diagrama de Pacotes](06-diagrama-de-pacotes/) | Guilherme e Elizabeth | ⏳ pendente |
